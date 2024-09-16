@@ -1,0 +1,9 @@
+
+.form-control:focus{
+    box-shadow: none;
+}
+
+.table img{
+    height: 100px;
+    object-fit: contain;
+}
